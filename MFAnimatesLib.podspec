@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "9.0"
 
-  spec.source       = { :git => "https://github.com/woLongDaFei/MFAnimatesLib.git", :tag => s.version.to_s }
+  spec.source       = { :git => "https://github.com/woLongDaFei/MFAnimatesLib.git", :tag => spec.version.to_s }
 
   spec.source_files  = "AnimateFlie/classes/**/*.{h,m}"
 
