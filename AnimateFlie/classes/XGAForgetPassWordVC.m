@@ -8,12 +8,6 @@
 
 #import "XGAForgetPassWordVC.h"
 
-
-
-@interface
-//获取验证码button
-@end
-
 @implementation XGAForgetPassWordVC
 
 @end
