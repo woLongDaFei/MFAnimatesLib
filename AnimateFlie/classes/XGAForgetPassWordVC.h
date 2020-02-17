@@ -7,8 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "XGAUserDataViewController.h"
 
-@interface XGAForgetPassWordVC : XGAUserDataViewController
+@interface XGAForgetPassWordVC : NSObject
 
 @end
