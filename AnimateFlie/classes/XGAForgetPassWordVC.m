@@ -8,6 +8,4 @@
 
 #import "XGAForgetPassWordVC.h"
 
-@implementation XGAForgetPassWordVC
 
-@end
